@@ -8,4 +8,4 @@ Este taller es impartido por investigadores que forman parte del grupo [Artifici
 
 Staff:
 * Gabriel Carcedo
-* Ismael 
+* Ismael Pérez 
