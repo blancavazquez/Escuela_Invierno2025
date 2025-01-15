@@ -7,5 +7,5 @@ Este taller es impartido por investigadores que forman parte del grupo [Artifici
 * Dra. Blanca Vázquez
 
 Staff:
-* Gabriel Carcedo
-* Ismael Pérez 
+* Ing. Gabriel Carcedo
+* Ing. Ismael Pérez 
